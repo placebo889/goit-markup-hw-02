@@ -1,0 +1,8 @@
+:root {
+    --primary-font: 'Roboto',sans-serif;
+    --title-font: 'Raleway', sans-serif;
+}
+body{
+font-family: 'Roboto', sans-serif;
+color:#434455;
+}
