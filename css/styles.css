@@ -80,6 +80,6 @@ background-color:var(--background-color)
     color: #ffffff;
     cursor: pointer;
 }
-.button1:hover, .order:focus{
+.button1:hover, .button1:focus{
  background-color: #404BBF;
 }
