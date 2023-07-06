@@ -5,6 +5,7 @@
     --offer-color:#2e2f42;
     --useful-color:#434455; 
     --background-color:#FFFFFF;
+    --paragraph-color:#F4F4FD;
 }
 
 body{
@@ -121,5 +122,13 @@ background-color:var(--background-color)
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:var(--offer-color);
+}
 
+.down{
+background-color:var(--offer-color)
+}
+.para{
+    line-height: 1.5;
+    color:var(--paragraph-color);
+    letter-spacing: 0.02em;
 }
