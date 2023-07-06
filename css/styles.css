@@ -59,9 +59,6 @@ background-color:var(--background-color)
     color: #404bbf;
 }
 
-.link {
-    text-decoration: none;
-}
 
 .purch{
     background-color:var(--offer-color);
@@ -126,6 +123,20 @@ background-color:var(--background-color)
     color:var(--offer-color);
 
 }
-.fimage{
+.list .fimage{
     background-color: #FFFFFF;
+}
+.list .fimage .name{
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: var(--offer-color);
+}
+
+.list .fimage .paragg{
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: var(--useful-color);
 }
