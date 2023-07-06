@@ -11,11 +11,12 @@ font-family: 'Roboto', sans-serif;
 color:var(--useful-color);
 }
 
-.list{
-    list-style: none;
+
+.studio{
+    color: var(--offer-color)
 }
 
-.list .logo{
+.logo{
     font-family: "Raleway",sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -24,6 +25,9 @@ color:var(--useful-color);
     text-transform: uppercase;
     color:var(--primary-accent-color);
     text-decoration: none;
+}
+.list {
+    list-style: none;
 }
 .list .menu{
     font-weight: 500;
@@ -38,6 +42,26 @@ color:var(--useful-color);
     letter-spacing: 0.02em;
     color:var(--useful-color);
 }
+.list .src {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--offer-color);
+    text-decoration: none;
+}
+.list .src:hover, .list .src:focus{
+    color: #404bbf;
+
+}
 .list .first:hover, .list .first:focus{
     color: #404bbf;
+}
+.comm .mail{
+line-height: 1.5;
+letter-spacing: 0.02em;
+color:var(--useful-color);
+}
+.comm .mail:hover, .comm .mail:focus{
+color:#404bbf;
 }
