@@ -44,6 +44,7 @@ background-color:var(--background-color)
 .list {
     list-style: none;
 }
+
 .list .src {
     font-weight: 500;
     font-size: 16px;
@@ -56,6 +57,10 @@ background-color:var(--background-color)
 .list .src:hover,
 .list .src:focus {
     color: #404bbf;
+}
+
+.link {
+    text-decoration: none;
 }
 
 .purch{
