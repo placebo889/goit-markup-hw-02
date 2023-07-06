@@ -97,6 +97,7 @@ background-color:var(--background-color)
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color:var(--useful-color)
 }
 .wawd{
     font-size: 36px;
@@ -105,5 +106,28 @@ background-color:var(--background-color)
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color:var(--offer-color);
-    
+
+}
+.ourt{
+    background-color: #F4F4FD;
+
+}
+.artc{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:var(--offer-color);
+
+}
+.fimage{
+    background-color: #FFFFFF;
+}
+.name{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:var(--offer-color);
 }
