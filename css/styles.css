@@ -70,7 +70,7 @@ background-color:var(--background-color)
     color: #ffffff; 
 }
 
-.button1{
+.custom1{
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -80,6 +80,22 @@ background-color:var(--background-color)
     color: #ffffff;
     cursor: pointer;
 }
-.button1:hover, .button1:focus{
+
+.custom1:hover, .custom1:focus{
  background-color: #404BBF;
+}
+
+.quali{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color:var(--offer-color);
+
+}
+
+.parag{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
