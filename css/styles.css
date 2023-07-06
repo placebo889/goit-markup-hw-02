@@ -134,3 +134,12 @@ background-color:var(--offer-color)
 .sect{
     background-color: #F4F4FD;
 }
+
+.ourteam{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color:var(--offer-color)
+}
