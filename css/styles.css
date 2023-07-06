@@ -4,13 +4,28 @@
     --primary-accent-color:#4d5ae5;
     --offer-color:#2e2f42;
     --useful-color:#434455; 
+    --background-color:#FFFFFF;
 }
 
 body{
 font-family: 'Roboto', sans-serif;
 color:var(--useful-color);
+background-color:var(--background-color)
+}
+.com {
+    font-style: normal;
 }
 
+.comm .mail {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--useful-color);
+}
+
+.comm .mail:hover,
+.comm .mail:focus {
+    color: #404bbf;
+}
 
 .studio{
     color: var(--offer-color)
@@ -29,19 +44,6 @@ color:var(--useful-color);
 .list {
     list-style: none;
 }
-.list .menu{
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:var(--offer-color);
-}
-.list .first{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:var(--useful-color);
-}
 .list .src {
     font-weight: 500;
     font-size: 16px;
@@ -50,18 +52,9 @@ color:var(--useful-color);
     color: var(--offer-color);
     text-decoration: none;
 }
-.list .src:hover, .list .src:focus{
+
+.list .src:hover,
+.list .src:focus {
     color: #404bbf;
 
-}
-.list .first:hover, .list .first:focus{
-    color: #404bbf;
-}
-.comm .mail{
-line-height: 1.5;
-letter-spacing: 0.02em;
-color:var(--useful-color);
-}
-.comm .mail:hover, .comm .mail:focus{
-color:#404bbf;
 }
