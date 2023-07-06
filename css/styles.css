@@ -92,20 +92,6 @@ text-decoration: none;
  background-color: #404BBF;
 }
 
-.listb{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color:var(--offer-color);
-}
-
-.parag{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:var(--useful-color)
-}
 .wawd{
     font-size: 36px;
     line-height: 1.11;
@@ -146,15 +132,15 @@ background-color:var(--offer-color)
     background-color: #FFFFFF;
 }
 
-.fname {
+.listb {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    color: var(--offer-color)
+    color: var(--offer-color);
 }
 
-.jobn {
+.parag {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
