@@ -70,7 +70,7 @@ background-color:var(--background-color)
     color: #ffffff; 
 }
 
-.order{
+.button1{
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -80,6 +80,6 @@ background-color:var(--background-color)
     color: #ffffff;
     cursor: pointer;
 }
-.order:hover, .order:focus{
-    color: #404BBF;
+.button1:hover, .order:focus{
+ background-color: #404BBF;
 }
