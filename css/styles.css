@@ -143,3 +143,7 @@ background-color:var(--offer-color)
     text-transform: capitalize;
     color:var(--offer-color)
 }
+
+.imag{
+    background-color: #FFFFFF;
+}
