@@ -98,11 +98,15 @@ text-decoration: none;
     cursor: pointer;
 }
 
-.portb:hover .portb:focus{
+.portb:hover{
 color: #FFFFFF;
 background-color: #404BBF;
-
 }
+.portb:focus:active{
+color: #FFFFFF;
+background-color: #404BBF;
+}
+
 .customb:hover, .customb:focus{
  background-color: #404BBF;
 }
