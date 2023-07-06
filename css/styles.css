@@ -130,3 +130,7 @@ background-color:var(--offer-color)
     letter-spacing: 0.02em;
     color: var(--useful-color)
 }
+
+.sect{
+    background-color: #F4F4FD;
+}
