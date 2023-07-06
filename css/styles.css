@@ -85,13 +85,12 @@ background-color:var(--background-color)
  background-color: #404BBF;
 }
 
-.quali{
+.list1{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:var(--offer-color);
-
 }
 
 .parag{
