@@ -70,7 +70,7 @@ background-color:var(--background-color)
     color: #ffffff; 
 }
 
-.custom1{
+.customb{
     background-color: #4D5AE5;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -81,11 +81,11 @@ background-color:var(--background-color)
     cursor: pointer;
 }
 
-.custom1:hover, .custom1:focus{
+.customb:hover, .customb:focus{
  background-color: #404BBF;
 }
 
-.list1{
+.listb{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
